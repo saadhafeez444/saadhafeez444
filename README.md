@@ -86,7 +86,7 @@ At App Sustain, I’m responsible for developing and deploying production-ready 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saadhafeez444&layout=compact&theme=tokyonight&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saadhafeez444&theme=tokyonight&cache_seconds=1800)
+
 
 ---
 
