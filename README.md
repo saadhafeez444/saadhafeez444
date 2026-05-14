@@ -43,9 +43,15 @@ Previously worked with **App Sustain LLC (UK-based projects)**, delivering high-
 
 ## 🚀 Professional Experience  
 
+### 🏢 Flutter Developer – ZYVROX  
+📍 Sargodha, Pakistan | 🌍 Client-Based Projects  
+🗓 September 2025 – April 2026 (8 Months)
+
+At App Sustain, I’m responsible for developing and deploying production-ready mobile applications for Android & iOS.
+
 ### 🏢 Flutter Developer – App Sustain LLC  
 📍 Sargodha, Pakistan | 🌍 UK-Based Projects  
-🗓 August 2025 – January 2026 (6 Months)
+🗓 April 2025 – January 2026 (10 Months)
 
 At App Sustain, I’m responsible for developing and deploying production-ready mobile applications for Android & iOS.
 
