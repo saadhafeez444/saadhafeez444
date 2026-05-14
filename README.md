@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Saad Hafeez  
 
-🚀 **Flutter Developer | 6 Months Experience | Cross-Platform App Builder**
+🚀 **Flutter Developer | 1 Year 6 Months Experience | Cross-Platform App Builder**
 
-I'm a dedicated **Flutter & Dart Developer** with 6 months of professional experience in building scalable and user-friendly mobile applications.  
+I'm a dedicated **Flutter & Dart Developer** with 1 Year 6 months of professional experience in building scalable and user-friendly mobile applications.  
 Previously worked with **App Sustain LLC (UK-based projects)**, delivering high-performance apps for real-world clients.
 
 ---
